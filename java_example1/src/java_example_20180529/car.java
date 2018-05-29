@@ -11,6 +11,6 @@ public class car {
 	}
 	
 	public void speedup() {
-		speed += 1;
+		speed += 2;
 	}
 }
